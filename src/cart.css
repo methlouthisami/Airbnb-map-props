@@ -1,0 +1,11 @@
+
+.Cartes{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.immg{
+    width:250px;
+    border-radius: 12px;
+}
